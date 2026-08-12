@@ -1,4 +1,4 @@
-# 🎓 AI-Powered College & Hostel Complaint Management System
+# 🎓 AI-Powered Complaint Management System
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-v18-blue.svg)](https://react.dev/)
@@ -6,9 +6,8 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)](https://www.mysql.com/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-v6.37-blueviolet.svg)](https://sequelize.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3.4-38bdf8.svg)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> A full-stack MERN-style (**React + Node.js/Express + MySQL**) Grievance Redressal & Complaint Management System designed specifically for college campuses and hostels. Features **100% local, offline AI & GenAI utilities** — requiring **zero external APIs** (no OpenAI, ChatGPT, or paid keys needed).
+> A full-stack MERN-style (**React + Node.js/Express + MySQL**) Grievance Redressal & Complaint Management System designed specifically for college campuses and hostels. 
 
 ---
 
